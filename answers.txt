@@ -9,3 +9,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: mergning creates a new "merge commit" in the feature branch that ties ties it to the main branch, while Rebasing moves the entire feature branch onto the tip of main 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Creating a project that I can add to my portfolio
